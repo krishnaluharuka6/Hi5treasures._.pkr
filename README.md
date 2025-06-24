@@ -5,6 +5,11 @@ Username: Krishna Luharuka
 Password: krishna123
 
 
+Admin Login:
+Username: Arohi Mittal
+Password: arohi123
+
+
 Home Page View
 ![localhost_hi5treasures_summerproject_Hi5treasures_](https://github.com/user-attachments/assets/9eccf2f1-2ead-4cd2-901a-eae41c9517d8)
 
@@ -66,6 +71,37 @@ Product Not found:
 
 
 
+Admin Dashboard:
+![localhost_hi5treasures_summerproject_Hi5treasures_admin_area_index php](https://github.com/user-attachments/assets/aa525850-cafe-40cf-9a94-95d0be5b44dc)
+
+Dynaimic Website Setting
+![localhost_hi5treasures_summerproject_Hi5treasures_admin_area_index php_edit_about_us](https://github.com/user-attachments/assets/ea1c21c3-b780-4f33-82ff-164cb6c537e8)
+
+Add product
+![localhost_hi5treasures_summerproject_Hi5treasures_admin_area_index php_insert_product](https://github.com/user-attachments/assets/039b5deb-74ea-4031-a01d-2dc1372cc92d)
+
+Add Categories
+![localhost_hi5treasures_summerproject_Hi5treasures_admin_area_index php_insertcategoriess](https://github.com/user-attachments/assets/afca4ffe-f959-4cad-9276-d7273234798d)
+
+View, edit and delete Products
+![localhost_hi5treasures_summerproject_Hi5treasures_admin_area_index php_view_products](https://github.com/user-attachments/assets/4bc578f5-a8d3-4f07-8071-e3a8cef5b768)
+
+View edit delete categories
+![localhost_hi5treasures_summerproject_Hi5treasures_admin_area_index php_view_categories](https://github.com/user-attachments/assets/708ab92f-af79-417f-9e4a-a4e9471e4d4a)
+
+View Orders
+![localhost_hi5treasures_summerproject_Hi5treasures_admin_area_index php_list_orders](https://github.com/user-attachments/assets/81e0c65e-b590-47e8-afa6-3bf61019c212)
+
+View Payments Details
+![localhost_hi5treasures_summerproject_Hi5treasures_admin_area_index php_list_payments](https://github.com/user-attachments/assets/792ad810-dbda-4cce-96ae-05482900d5da)
+
+View user's notifications and reply back
+![localhost_hi5treasures_summerproject_Hi5treasures_admin_area_index php_list_users](https://github.com/user-attachments/assets/f74e2dbc-85a6-471c-a600-b5810775019c)
+
+Reply back to the user messages
+![localhost_hi5treasures_summerproject_Hi5treasures_admin_area_index php_get_message=13](https://github.com/user-attachments/assets/27806dfc-dc40-41ae-b714-5a4773eb5660)
+
+And all the features that a normal use rcan do like edit account delete view content products search etc
 
 
 
