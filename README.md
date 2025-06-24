@@ -54,6 +54,22 @@ Read the about content which include embedded facebook video
 Read Reviews
 ![localhost_hi5treasures_summerproject_Hi5treasures_reviews php](https://github.com/user-attachments/assets/3706a701-f623-485f-ac36-a62055a3a2b2)
 
+Search Products
+Search Succesful;
+![localhost_hi5treasures_summerproject_Hi5treasures_search_product php_search_data=gift search_data_product=Search](https://github.com/user-attachments/assets/fd4d8d7a-d8af-4739-ac24-43fb789654a1)
+
+Product Not found:
+![localhost_hi5treasures_summerproject_Hi5treasures_search_product php_search_data=shoes search_data_product=Search](https://github.com/user-attachments/assets/7f5c5d79-02f4-4c6d-a924-6c6044686708)
+
+
+
+
+
+
+
+
+
+
 
 
 
