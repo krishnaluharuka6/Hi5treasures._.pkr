@@ -3,16 +3,12 @@ An E-commerce website for gift shop using Html, CSS, JavaScript and Bootstrap5 (
 
 
 User Login
-
 Username: Krishna Luharuka
-
 Password: krishna123
 
 
 Admin Login:
-
 Username: Arohi Mittal
-
 Password: arohi123
 
 
